@@ -3,6 +3,6 @@
 
 ### Membuat Form Login Dengan HTML
 Berikut adalah Contoh Form Login Dengan HTML dan CSS'<p>'
-![GAMBAR](Screenshot/pukis.png)
-![GAMBAR](Screenshot/piko.png)
-![GAMBAR](Screenshot/polo.png)
+![Gambar](screenshot/pukis.png)
+![Gambar](screenshot/piko.png)
+![Gambar](screenshot/polo.png)
